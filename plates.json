@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "ABC-123",
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2015
+    },
+    {
+        "plate": "DEF-456",
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2016
+    },
+    {
+        "plate": "GHI-789",
+        "brand": "Nissan",
+        "model": "Sentra",
+        "year": 2023
+    }
+]
